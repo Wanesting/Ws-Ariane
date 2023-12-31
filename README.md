@@ -1,2 +1,2 @@
 # Ws-Ariane
-Ws-Ariane is a Wanesting server-side optimization mod
+Ws-Ariane is a Minecraft mod for server-side optimization as part of the Wanesting project
